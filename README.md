@@ -1,8 +1,8 @@
 # Ex-3-Implement-Depth-First-Search-Traversal-of-a-Graph
 
-**Name:**
+**Name:Divya A**
 
-**Register Number:**
+**Register Number:2305002007**
 
 ### Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
@@ -55,12 +55,7 @@ print("DFS Traversal Path:", traversed_path)
 ```
 
 ### Sample Input:
-A B
-A C
-B D
-B E
-C E
-D E
+A B A C B D B E C E D E
 
 ### Sample Output:
 
@@ -68,4 +63,12 @@ Graph: {'A': ['B', 'C'], 'B': ['A', 'D', 'E'], 'C': ['A', 'E'], 'D': ['B', 'E'],
 
 DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 
+### Input:
+
+
+<img width="665" height="211" alt="image" src="https://github.com/user-attachments/assets/a0398ea3-b17b-47e7-ae68-97957bb09ee7" />
+### Output:
+<img width="1419" height="55" alt="image" src="https://github.com/user-attachments/assets/b4cfbf32-d75b-4f4b-a491-67e59e41a723" />
+
 **Result:**
+Thus the program has implemented and executed successfully.
